@@ -27,7 +27,7 @@ cd Recommendation-System-using-NLP
 Ensure you have Python installed. Install the required packages using pip:
 
 ```bash
-pip install pandas numpy matplotlib seaborn plotly scikit-learn tk
+pip install pandas numpy matplotlib seaborn plotly scikit-learn 
 ```
 
 ## Data
