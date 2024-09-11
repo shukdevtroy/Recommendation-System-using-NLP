@@ -32,7 +32,7 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn
 
 ## Data
 
-The dataset used in this project is `netflix_titles.csv`, which should be placed in the root directory of the project. You can obtain this dataset from [Kaggle](https://www.kaggle.com/shubhendra7/netflix-data).
+The dataset used in this project is `netflix_titles.csv`, which should be placed in the root directory of the project. 
 
 ## Scripts and Usage
 
